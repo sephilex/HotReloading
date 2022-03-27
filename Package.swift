@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 //
-//  Repo: https://github.com/johnno1962/HotReloading
+//  Repo: https://github.com/sephilex/HotReloading
 //  $Id: //depot/HotReloading/Package.swift#133 $
 //
 
