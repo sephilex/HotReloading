@@ -16,7 +16,7 @@ import Foundation
 // Then drag the clone onto your project to have it
 // take precedence over the configured version.
 var hostname = Host.current().name ?? "localhost"
-// hostname = "192.168.0.252" // for example
+hostname = "10.1.2.6"
 
 let package = Package(
     name: "HotReloading",
